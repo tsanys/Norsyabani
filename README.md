@@ -1,6 +1,19 @@
-### Hi there 👋 My Name is Pandu Norsya'bani Tsany, I am a student who interested in website development.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pandu-norsya-bani-5ba1b220a/)
+[![Twitter Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://www.instagram.com/tsany.san)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norsyabani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+Hi there 👋 My Name is Pandu Norsya'bani Tsany, I am a student who interested in website development.
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/Norsyabani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norsyabani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Norsyabani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Norsyabani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
 
 <!--
 **Norsyabani/Norsyabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

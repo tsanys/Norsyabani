@@ -1,5 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pandu-norsya-bani-5ba1b220a/)
-[![Twitter Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://www.instagram.com/tsany.san)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://www.instagram.com/tsany.san)
 
 Hi there 👋 My Name is Pandu Norsya'bani Tsany, I am a student who interested in website development.
 

@@ -8,7 +8,7 @@ Hi there 👋 My Name is Pandu Norsya'bani Tsany, I am a student who interested 
 <br>
 
 <a href="https://github.com/Norsyabani">
-  <img align="center" style="margin:0.5rem; height:15rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norsyabani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem; height:15rem; width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norsyabani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Norsyabani">
